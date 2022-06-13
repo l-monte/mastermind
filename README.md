@@ -4,8 +4,7 @@ Rules: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 
 # How to run the project in Linux?
 
-- git clone
-- cd mastermind
+- download the project
 - cd build
 - cmake ..
 - make
